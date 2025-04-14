@@ -242,18 +242,14 @@
 ![Результат роботи додатку](pictures/anime_app_result.png)  
 *Рис. 2. Приклад роботи Flask-додатку з аніме-даними*
 
-**Додаткові матеріали:**
-- [Повний код проекту](https://github.com/example/anime-api-app)
-- [Документація Poetry](https://python-poetry.org/docs/)
-- [Jikan API документація](https://jikan.docs.apiary.io/)
-``` 
-
-Цей розширений звіт містить:
-1. Детальні практичні приклади
-2. Порівняльні таблиці
-3. Аналіз продуктивності
-4. Рішення реальних проблем
-5. Візуалізацію результатів
-6. Додаткові ресурси для поглибленого вивчення
-7. Конкретні цифри та метрики
-8. Рекомендації з вибору інструментів
+Скріншоти:
+![](photos/Screenshot_1.png)
+![](photos/Screenshot_2.png)
+![](photos/Screenshot_3.png)
+![](photos/Screenshot_4.png)
+![](photos/Screenshot_5.png)
+![](photos/Screenshot_6.png)
+![](photos/Screenshot_7.png)
+![](photos/Screenshot_8.png)
+![](photos/Screenshot_9.png)
+![](photos/Screenshot_10.png)
