@@ -243,13 +243,13 @@
 *Рис. 2. Приклад роботи Flask-додатку з аніме-даними*
 
 Скріншоти:
-![](photos/Screenshot_1.png)
-![](photos/Screenshot_2.png)
-![](photos/Screenshot_3.png)
-![](photos/Screenshot_4.png)
-![](photos/Screenshot_5.png)
-![](photos/Screenshot_6.png)
-![](photos/Screenshot_7.png)
-![](photos/Screenshot_8.png)
-![](photos/Screenshot_9.png)
-![](photos/Screenshot_10.png)
+![](photo/Screenshot_1.png)
+![](photo/Screenshot_2.png)
+![](photo/Screenshot_3.png)
+![](photo/Screenshot_4.png)
+![](photo/Screenshot_5.png)
+![](photo/Screenshot_6.png)
+![](photo/Screenshot_7.png)
+![](photo/Screenshot_8.png)
+![](photo/Screenshot_9.png)
+![](photo/Screenshot_10.png)
